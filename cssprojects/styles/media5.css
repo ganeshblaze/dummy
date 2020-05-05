@@ -1,0 +1,33 @@
+/* smart phones  */
+@media(max-width:320px) {
+    .top {
+            background: rgb(243, 123, 10);
+        }
+}
+
+
+/* for tablets  */
+@media(max-width:768px) {
+    .top {
+            background: rgb(37, 243, 10);
+        }
+}
+
+/* for notebooks 1024px 1028px */
+@media(max-width:1024px) {
+    .top {
+            background: rgb(243, 123, 10);
+        }
+}
+
+
+/* for desktops 1600px */
+/* @media(max-width:1600px) {
+    .top {
+            background-color: rgb(243, 123, 10);
+        }
+} */
+
+
+
+
